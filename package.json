@@ -4,9 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.ts",
+    "dev": "nodemon src/index.ts",
     "build": "tsc",
-    "start": "node ./public/index.js"
+    "start": "node ./dist/src/index.js"
   },
   "dependencies": {
     "@vercel/node": "^2.8.5",
