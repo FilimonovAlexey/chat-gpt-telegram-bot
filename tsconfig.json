@@ -12,7 +12,7 @@
     "resolveJsonModule": true,                        /* Enable importing .json files. */
 
     /* Emit */
-    "outDir": "./public",                                   /* Specify an output folder for all emitted files. */
+    "outDir": "./dist",                                   /* Specify an output folder for all emitted files. */
     "removeComments": true,                           /* Disable emitting comments. */
     "noEmitOnError": false,                            /* Disable emitting files if any type checking errors are reported. */
 
