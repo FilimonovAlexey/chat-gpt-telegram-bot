@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon index.ts",
-    "build": "tsc" ,
+    "build": "tsc",
     "start": "node ./public/index.js"
   },
   "dependencies": {
