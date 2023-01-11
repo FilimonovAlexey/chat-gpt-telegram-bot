@@ -6,9 +6,7 @@
   "scripts": {
     "dev": "nodemon src/index.ts",
     "build": "tsc",
-    "start": "node ./dist/src/index.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "start": "node ./dist/src/index.js"
   },
   "dependencies": {
     "@vercel/node": "^2.8.5",
